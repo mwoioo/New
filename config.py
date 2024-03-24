@@ -39,7 +39,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VIP_CREATORS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/stranger_of_telegram")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dangerbots")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
@@ -119,7 +119,7 @@ PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/cd775ea600cf900d735e9.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg"
